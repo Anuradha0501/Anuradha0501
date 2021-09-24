@@ -1,7 +1,7 @@
 # Hi there 👋, I am Anuradha Jadon
 #### Engineering student with problem-solving skills and ability to perform well in a team. Student of B.Tech Computer science engineering from ITM Group of Institutions Technical Campus , Gwalior.
 
-Skills:  HTML / CSS / JavaScript / Java / Python 
+Skills:  HTML / CSS / JavaScript / Java / Python(Basic)
 
 - 🔭 I’m currently working on  Frontend web development  
 - 🌱 I’m currently learning  Backend developement and Android  

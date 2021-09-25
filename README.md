@@ -1,7 +1,7 @@
 # Hi there 👋, I am Anuradha Jadon
 #### Engineering student with problem-solving skills and ability to perform well in a team. Student of B.Tech Computer science engineering from ITM Group of Institutions Technical Campus , Gwalior.
 
-Skills:  HTML / CSS / JavaScript / Java / Python(Basic)
+Skills:  HTML / CSS / JavaScript / Java / Python (Basic)
 
 - 🔭 I’m currently working on  Frontend web development  
 - 🌱 I’m currently learning  Backend developement and Android  
@@ -17,8 +17,6 @@ Skills:  HTML / CSS / JavaScript / Java / Python(Basic)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuradha0501)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anuradha0501&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Anuradha0501)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Anuradha0501)  
 

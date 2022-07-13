@@ -1,5 +1,5 @@
 # Hi there 👋, I am Anuradha Jadon
-#### Engineering student with problem-solving skills and ability to perform well in a team. Student of B.Tech Computer science engineering from ITM Group of Institutions Technical Campus , Gwalior.
+#### I am Working as a Assistant System Engineer - Trainee at Tata Consultancy Services. 2022 Undergraduate with problem-solving skills and ability to perform well in a team. Did B.Tech in Computer science engineering from ITM Gwalior.
 
 Skills:  HTML / CSS / JavaScript / Java / Python (Basic)
 

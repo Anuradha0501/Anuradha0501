@@ -1,7 +1,20 @@
 # Hi there 👋, I am Anuradha Jadon
 #### I am Working as a System Engineer at Tata Consultancy Services. 2022 Undergraduate with problem-solving skills and ability to perform well in a team. Did B.Tech in Computer science engineering from ITM Gwalior.
 
-Skills:  HTML / CSS / JavaScript / Java / Python (Basic)
+### Language
+
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+
+<h3 align="left">Languages and Tools</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </p>
+
+
 
 - 🔭 I’m currently working on a Healthcare project in GE Healthcare (Skills used JAVA, Embedded CPP, Linux, Jenkins)  
 - 🌱 I’m currently learning Project Management Skills  

@@ -1,10 +1,10 @@
 # Hi there 👋, I am Anuradha Jadon
-#### I am Working as a Assistant System Engineer - Trainee at Tata Consultancy Services. 2022 Undergraduate with problem-solving skills and ability to perform well in a team. Did B.Tech in Computer science engineering from ITM Gwalior.
+#### I am Working as a System Engineer at Tata Consultancy Services. 2022 Undergraduate with problem-solving skills and ability to perform well in a team. Did B.Tech in Computer science engineering from ITM Gwalior.
 
 Skills:  HTML / CSS / JavaScript / Java / Python (Basic)
 
-- 🔭 I’m currently working on  Frontend web development  
-- 🌱 I’m currently learning  Backend developement and Android  
+- 🔭 I’m currently working on a Healthcare project in GE Healthcare (Skills used JAVA, Embedded CPP, Linux, Jenkins)  
+- 🌱 I’m currently learning Project Management Skills  
 - 😄 Pronouns: She / Her 
 
 
